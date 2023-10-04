@@ -1,3 +1,1 @@
-Python 3.11.5
-heroku buildpacks:set heroku/python
-heroku restart
+Python-3.11.5
